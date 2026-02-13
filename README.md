@@ -1,1 +1,1 @@
-# blog-app-react-native
+# react-native-blog-context
